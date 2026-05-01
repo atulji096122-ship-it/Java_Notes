@@ -1,7 +1,8 @@
 
 public class Builtin_Methods_in_String {
     public static void main(String[] args) {
-        String s2 = new String("world");
+        String s1 = new String("world");
+        String s2 = new String("Hello");
 
         //  METHODS IN STRING
 
